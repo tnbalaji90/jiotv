@@ -19,7 +19,7 @@ https://supermaxtv.fun/sun/live.php?id=64067%7Creferer=https://supermaxtv.fun/su
 //CDN SUN NXT
 
 #EXTINF:-1 tvg-logo="",Sun TV HD
-https://cdn-tv.co.in/sun/live.php?id=14020%7Creferer=https://supermaxtv.fun/sun/play.php?c=14020
+https://cdn-tv.co.in/sun/live.php?id=14020%7Creferer=https://cdn-tv.co.in/sun/?play=14020
 #EXTINF:-1 tvg-logo="",Sun Music HD
 https://cdn-tv.co.in/sun/live.php?id=9013%7Creferer=https://supermaxtv.fun/sun/play.php?c=14020
 #EXTINF:-1 tvg-logo="",KTV HD
