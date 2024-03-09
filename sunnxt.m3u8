@@ -32,3 +32,21 @@ https://cdn-tv.co.in/sun/live.php?id=9023%7Creferer=https://cdn-tv.co.in/sun/?pl
 https://cdn-tv.co.in/sun/live.php?id=26567%7Creferer=https://cdn-tv.co.in/sun/?play=14020
 #EXTINF:-1 tvg-logo="",Sun News
 https://cdn-tv.co.in/sun/live.php?id=64067%7Creferer=https://cdn-tv.co.in/sun/?play=14020
+
+
+//OTTTV SUN NXT
+
+#EXTINF:-1 tvg-logo="",Sun TV HD
+https://otttv.co.in/sun/live.php?id=14020%7Creferer=https://otttv.co.in/sun/?play=14020
+#EXTINF:-1 tvg-logo="",Sun Music HD
+https://otttv.co.in/sun/live.php?id=9013%7Creferer=https://otttv.co.in/sun/?play=14020
+#EXTINF:-1 tvg-logo="",KTV HD
+https://otttv.co.in/sun/live.php?id=26566%7Creferer=https://otttv.co.in/sun/?play=14020
+#EXTINF:-1 tvg-logo="",Sun Life
+https://otttv.co.in/sun/live.php?id=26569%7Creferer=https://otttv.co.in/sun/?play=14020
+#EXTINF:-1 tvg-logo="",Adhithiya TV
+https://otttv.co.in/sun/live.php?id=9023%7Creferer=https://otttv.co.in/sun/?play=14020
+#EXTINF:-1 tvg-logo="",Chutti TV
+https://otttv.co.in/sun/live.php?id=26567%7Creferer=https://otttv.co.in/sun/?play=14020
+#EXTINF:-1 tvg-logo="",Sun News
+https://otttv.co.in/sun/live.php?id=64067%7Creferer=https://otttv.co.in/sun/?play=14020
