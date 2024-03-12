@@ -227,9 +227,9 @@ https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_129/output/manife
 https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_457/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"U33nZ7XWS90fAvckLGZ/LA","kid":"JFJy9MWeW16VLk7eCaF6Cg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.mpd?contentID=ts137&key
 #EXTINF:-1 tvg-id="ts137" group-title="Knowledge" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-462-j5jw44hk-v2/imageContent-462-j5jw44hk-m3.png",National Geographic
-https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_113/output/manifest.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=ts137
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tSpYjLgrW3GqvuCrC8wUfQ","kid":"K1Ft42WIW5aZebyfRsQjKw"}],"type":"temporary"}
