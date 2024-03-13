@@ -207,9 +207,9 @@ https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_636/output/manife
 https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_530/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"qrrjyEpdHFyOUcpFGxDayg","kid":"9Qa35++xUE6ity38vJyBDg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.mpd?contentID=605&key
 #EXTINF:-1 tvg-id="ts605" group-title="Knowledge" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12234-j9qoqc54-v1/imageContent-12234-j9qoqc54-m1.png",National Geographic HD
-https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_652/output/manifest.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=605
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"u1QN2KN25Yy7soJm3rUxQA","kid":"hl/bpZphW5uL0nruXJoKFQ"}],"type":"temporary"}
@@ -227,9 +227,9 @@ https://bpprod2catchup.akamaized.net/bpk-tv/irdeto_com_Channel_129/output/manife
 https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_457/output/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.mpd?contentID=ts137&key
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.mpd?contentID=137&key
 #EXTINF:-1 tvg-id="ts137" group-title="Knowledge" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-462-j5jw44hk-v2/imageContent-462-j5jw44hk-m3.png",National Geographic
-https://rftv.wtf/tp/tplay.mpd?contentID=ts137
+https://rftv.wtf/tp/tplay.mpd?contentID=137
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"tSpYjLgrW3GqvuCrC8wUfQ","kid":"K1Ft42WIW5aZebyfRsQjKw"}],"type":"temporary"}
