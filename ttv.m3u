@@ -105,61 +105,61 @@ https://rftv.wtf/tp/tplay.mpd?contentID=1182
 #EXTINF:-1 tvg-id="444" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11724-j9kvwnkg-v1/imageContent-11724-j9kvwnkg-m1.png",Travelxp Tamil
 https://rftv.wtf/tp/tplay.mpd?contentID=444
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"O+KNbNynfjBsNmd+/+wQDA","kid":"gHqElhGFVEu5nGqy84mnmw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.mpd?contentID=499&key
 #EXTINF:-1 tvg-id="499" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11900-j9l4vygg-v1/imageContent-11900-j9l4vygg-m1.png",Vasanth TV
-https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_813/output/manifest.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=499
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ezuon51FoC+Q3MIcad1VYw","kid":"Tv2pc6/AVdmr2Bnn0ssyxQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.mpd?contentID=220&key
 #EXTINF:-1 tvg-id="220" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-882-j5mdrg4o-v1/imageContent-882-j5mdrg4o-m1.png",Puthiya Thalaimurai
-https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_233/output/manifest.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=220
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"o7Ce+yBUXk5hvwxA1zcpIQ","kid":"xW83YagvUEea+TSWEFcj8g"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.mpd?contentID=198&key
 #EXTINF:-1 tvg-id="198" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-810-j5m84h14-v1/imageContent-810-j5m84h14-m1.png",Jaya Plus
-https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_346/output/manifest.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=198
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"KR95mN5dgTSVNJyn28oOgA","kid":"ggq3ddGFU7e+uX4e77oXIA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.mpd?contentID=524&key
 #EXTINF:-1 tvg-id="524" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11966-j9luich4-v1/imageContent-11966-j9luich4-m1.png",Thanthi TV
-https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_778/output/manifest.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=524
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.mpd?contentID=44&key
 #EXTINF:-1 tvg-id="44" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-126-j5fnf4ig-v2/imageContent-126-j5fnf4ig-m2.png",Seithigal TV
 https://rftv.wtf/tp/tplay.mpd?contentID=44
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"MpU8zGIqdVC3NEk/5KAypA","kid":"k/nDd7EcXKKr8Z/X4qR51g"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.mpd?contentID=509&key
 #EXTINF:-1 tvg-id="509" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11942-j9lthi34-v1/imageContent-11942-j9lthi34-m1.png",Polimer News
-https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_673/output/manifest.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=509
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HAmpklAlxNeSR5wm9dGLyQ","kid":"gckLzHC/X52qqyDhP18eSA"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.mpd?contentID=58&key
 #EXTINF:-1 tvg-id="58" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-192-j5fsr3s0-v1/imageContent-192-j5fsr3s0-m1.png",News18 Tamil Nadu
-https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_373/output/manifest.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=58
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"vRBOg713JmJFp3laI6lZYw","kid":"3in58n/FUNqVuxk7/9/Rqg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.mpd?contentID=525&key
 #EXTINF:-1 tvg-id="525" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12002-j9nrtf08-v2/imageContent-12002-j9nrtf08-m2.png",Raj News Tamil
-https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_372/output/manifest.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=525
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"anwIA9VsysAHwkj6yDKAcA","kid":"rUMC9LkfWSOMNcVAdy7vBQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.mpd?contentID=702&key
 #EXTINF:-1 tvg-id="702" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-37207-jswmhmpk-v1/imageContent-37207-jswmhmpk-m1.PNG",News J
-https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_943/output/manifest.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=702
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"0Yzdr42mcLS5nCVcxRI1wg","kid":"kUOxLk5nUrKayvKF/rpH4w"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.mpd?contentID=455&key
 #EXTINF:-1 tvg-id="455" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11764-j9kwqj6o-v1/imageContent-11764-j9kwqj6o-m1.png",Sathiyam TV
-https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_711/output/manifest.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=455
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"peDv8oAboKnZw0+/bMa2hQ","kid":"8omCiwt8XtyDNtfAeJzfrg"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.mpd?contentID=968&key
 #EXTINF:-1 tvg-id="968" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69018-kzo65wi0-v1/imageContent-69018-kzo65wi0-m2.png",News Tamil 24x7
-https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1794/output/manifest.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=968
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"50sxvFKqKXev9OLxoO6vYw","kid":"5EsKs1gGUNu47joZ+uTJBw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.mpd?contentID=391&key
 #EXTINF:-1 tvg-id="391" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MAMUR_Thumbnail-v2/MAMUR_Thumbnail.png",MalaiMurasu Seithigal
-https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_618/output/manifest.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=391
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"fF9quaLKiGIcNjjf/ic0Vw","kid":"L5Ys7t2eXHCVQ84yU6ci7g"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.mpd?contentID=199&key
 #EXTINF:-1 tvg-id="199" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-807-j5m7zoyo-v1/imageContent-807-j5m7zoyo-m1.png",Jaya Max
-https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_350/output/manifest.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=199
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"QepBISMIrpT3vBRAOOlOIw","kid":"ibkfhq27WNONGLCHTRUSDw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.mpd?contentID=425&key
 #EXTINF:-1 tvg-id="425" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11682-j9khxjoo-v1/imageContent-11682-j9khxjoo-m1.png",Raj Musix
-https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_684/output/manifest.mpd
+https://rftv.wtf/tp/tplay.mpd?contentID=425
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://rftv.wtf/tp/tplay.mpd?contentID=334&key
 #EXTINF:-1 tvg-id="334" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11369-j9jpvzjs-v1/imageContent-11369-j9jpvzjs-m1.png",DD Podhigai
