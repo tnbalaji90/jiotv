@@ -1,7 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="",12th Fail (Tamil)
-https://cdn16.vembz.one/hls/h7todibxamlbu3tf6rvdlihvrb42lms44qbderted,xo7imtbm3xameey5wpa,7o7imtbm3xkbdl3y3pq,ho7imtbm3xme5dhpgra,.urlset/master.m3u8
-#EXTINF:-1 tvg-logo="",Devil
-https://cdn26.vembz.one/hls/h7toc7rwamlbu3tf6rvdllfxqumrkzprzsammjr4k,yuo3r5f7dh5w7xgwnoq,quo3r5f7dhvf5qfdg2a,iuo3r5f7dh2ko2f664q,.urlset/master.m3u8
-#EXTINF:-1 tvg-logo="",Vadakupatti Ramasamy
+#EXTINF:-1 tvg-id="",No way up
+https://cdn96.vembz.one/hls/h7tocgzwamlbu3tf6rvdl4p53i7y6immg3pap4bem,mkggvv2klpc7ll4d2ha,ekggvv2klpihpgaagca,4kggvv2klpddptkocxa,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="",Spaceman
+https://cdn52.vembz.one/hls/h7todfrxamlbu3tf6rvdl5xlrxgipg4kwzee3yqbw,7k6awuqpky7d3xviqwq,xk6awuqpkyu4abqgwzq,pk6awuqpkyx4be4nzpa,.urlset/master.m3u8
+#EXTINF:-1 tvg-id="",My name is Loh Kwan
+https://cdn32.vembz.one/hls/h7todgbxamlbu3tf6rvdlmpuqs5za2wy6noafle36,cq7fdmnnnernkafymqq,kq7fdmnnne6hgveqvpq,sq7fdmnnneuqkwdsqda,.urlset/master.m3u8
