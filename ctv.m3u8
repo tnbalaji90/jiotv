@@ -1,9 +1,7 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Star_Vijay_logo_2023.png", Star Vijay HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3100743f5e4550ea8c5e6813d0905db1:deb85f9b726b68407251cb63fbfedeaf
-https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_818/output/manifest.mpd
+https://humsab.xyz/IN_VIJAYTVHD/index.m3u8
 #EXTINF:0 tvg-logo="https://sund-images.sunnxt.com/14020/640x360_SunTVHD_14020_611b7b0f-f40a-4eea-979c-cf8c8026b8e6.jpg", Sun TV
 https://port.denver1769.in/Share2.php?id=5922
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtTlyfzv8Tl50jvBV7EvcsPLjj-9Gbmw8glA&usqp=CAU", Sun Music HD
