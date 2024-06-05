@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
 
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png", ZeeTamil
 https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Zee_Tamil_MOB/Fallback/index.m3u8
