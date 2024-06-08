@@ -97,3 +97,11 @@ https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Discovery_Channel_Tamil_MOB/Fallba
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png", HistoryTV HDTamil
 https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/History_18_Tamil_MOB/Fallback/index.m3u8
 
+#EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthu_Yugam.png", PuthuYugam
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Puthu_Yugam_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Malai_Murasu.png", MalaiMurasu
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Malai_Murasu_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Thanthi_TV.png", ThanthiTV
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Thanthi_TV_MOB/Fallback/index.m3u8
