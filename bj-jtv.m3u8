@@ -139,11 +139,6 @@ https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Sathiyam_MOB/Fallback/index.m3u8
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SaiTV.png", SaiTV
 https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/SaiTV_MOB/Fallback/index.m3u8
 
-#EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Win_TV.png", WinTV
-https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Win_TV_MOB/Fallback/index.m3u8
-
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_J.png", NewsJ
 https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/News_J_MOB/Fallback/index.m3u8
 
-#EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Moon_Tv.png", MoonTV
-https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Moon_Tv_MOB/Fallback/index.m3u8
