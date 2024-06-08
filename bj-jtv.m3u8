@@ -120,3 +120,9 @@ https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Vendhar_TV_MOB/Fallback/index.m3u8
 
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Tamil.png", SonyYayTamil
 https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Sony_Yay_Tamil_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png", DD Podhigai
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/DD5_Podhigai_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png", VasanthTV
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Vasanth_TV_MOB/Fallback/index.m3u8
