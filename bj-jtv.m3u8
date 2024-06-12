@@ -157,3 +157,11 @@ https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Wild_Earth_MOB/Fallback/index.m3u8
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Movies.png", Surya Movies 
 https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Surya_Movies_MOB/Fallback/index.m3u8
 
+#EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png", PuthiyaThalimurai
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Puthiya_Thalimurai_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/M_Nadu.png", MNadu
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/M_Nadu_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Moon_Tv.png", MoonTV
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Moon_Tv_MOB/Fallback/index.m3u8
