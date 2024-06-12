@@ -153,3 +153,6 @@ https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Star_Entertainment_MOB/Fallback/in
 
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Wild_Earth.png", Wild Earth
 https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Wild_Earth_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_English.png", Animal Planet
+https://cdn.toxicfypro-jtv.workers.dev/bpk-tv/Animal_Planet_English_MOB/Fallback/index.m3u8
