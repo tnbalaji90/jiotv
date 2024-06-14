@@ -23,11 +23,11 @@ https://delta13tatasky.akamaized.net/out/i/6282177.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=608
 #EXTINF:-1 tvg-id=ts608 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png" group-title="Tata Sky",Zee Tamil HD
-https://denver.bigcric.site/api/608.mpd
+https://tataplay.dinesh29.com.np/live/tataplay/zee-tamil-hd/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=257
 #EXTINF:-1 tvg-id="257" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9006-j7rlwsns-v2/imageContent-9006-j7rlwsns-m4.png",Zee Tamil
-https://denver.bigcric.site/api/257.mpd
+https://tataplay.dinesh29.com.np/live/tataplay/zee-tamil/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=674
 #EXTINF:-1 tvg-id="674" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG",Colors Tamil HD
