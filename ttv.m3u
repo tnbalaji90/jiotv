@@ -191,20 +191,20 @@ https://denver.bigcric.site/api/490.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=32
 #EXTINF:-1 tvg-id="ts32" group-title="Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-93-j5fjv614-v3/imageContent-93-j5fjv614-m3.png",SONY PIX HD
-https://denver.bigcric.site/api/32.mpd
+https://tataplay.dinesh29.com.np/live/tataplay/sony-pix-hd/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=562
 #EXTINF:-1 tvg-id="ts562" group-title="Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12095-j9ooixfs-v1/imageContent-12095-j9ooixfs-m1.png",Movies Now HD
-https://denver.bigcric.site/api/562.mpd
+https://tataplay.dinesh29.com.np/live/tataplay/movies-now-hd/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=599
 #EXTINF:-1 tvg-id="ts599" group-title="Movies" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12216-j9qm5hjs-v2/imageContent-12216-j9qm5hjs-m2.png",MNX HD
-https://denver.bigcric.site/api/599.mpd
+https://tataplay.dinesh29.com.np/live/tataplay/mnx-hd/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ThDEy5DNn0nkVA8KO98dFw","kid":"KfwY/tVwUMapVzScpY/HwQ"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=341
 #EXTINF:-1 tvg-id="ts341" group-title="Knowledge" tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11396-j9jq7jg0-v1/imageContent-11396-j9jq7jg0-m1.png",Discovery HD World
-https://bpprod6catchup.akamaized.net/bpk-tv/irdeto_com_Channel_530/output/manifest.mpd
+https://tataplay.dinesh29.com.np/live/tataplay/discovery-hd-world/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=605
