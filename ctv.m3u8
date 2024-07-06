@@ -24,29 +24,18 @@ https://mhdtvweb.com/jc/stream.php?id=806dde9acdc873824b363bf6bc6477e6%7Creferer
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRHwcVOA4b-V8K_oLmvCd4XLsAkSkcslWN4rk33pg=s900-c-k-c0x00ffffff-no-rj", Polimer TV
 https://mhdlivetv.com/yupp/main.php?cid=polimertv%7Creferer=https://mhdlivetv.com/yupp/play.php?c=polimertv
 
-
-#EXTINF:0 tvg-logo="https://tamil.oneindia.com/img/2024/01/screenshot29691-1705671046.jpg", DD Podhigai
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100110
-#EXTINF:0 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/09/Puduyugam-New-Logo-BG-2.jpg", Pudhuyugam
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100142
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/Logo_of_Vendhar_TV.jpg/220px-Logo_of_Vendhar_TV.jpg", Vendhar TV
-https://mhdtv.co.in/jio/stream.php?id=857%7creferer=https://mhdtv.co.in/jio/stream.php?id=2256
-#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/UJcEAQ90jM4Mb-0L31-fDZEqvP9EJWS8lhyZUABcmOxk58C6GAExqVzFJk6r7gAnMRWf=w600-h300-pc0xffffff-pd", Tunes 6 TV
-https://mhdtv.co.in/jio/stream.php?id=803%7creferer=https://mhdtv.co.in/jio/stream.php?id=2256
-#EXTINF:0 tvg-logo="https://play-lh.googleusercontent.com/zhElfKxOKqpnyUdIdOXTS2_YlNAVVJ3EBPyUPwsDwnT6S8QzZSzqaTkh0q-5kSFtMFHE", Tamilan TV
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100158
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQud6Ndm0VTPY3sMRA7Nc92puG7t0pmT9NcDg&usqp=CAU", Imayam TV
 https://idvd.multitvsolution.com/idvo/imayamtv.m3u8
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ0cDXwGwXZDyMA8RWB6_1ha07rNitEqu03A&usqp=CAU", Makkal TV
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100129
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRepHN5hc3RAAdr-YDe6rmMbJxWiAt0Uco9nw&usqp=CAU", MK TV
-https://mhdtv.co.in/jio/stream.php?id=847%7creferer=https://mhdtv.co.in/jio/stream.php?id=2256
+
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Cinemax.svg/2560px-Cinemax.svg.png", Cinemax (English)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b541612bcb4598f60c4efc1733b5d8c9:7e6d2819c0912a204fd5478f8a60d1b5
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0118/DASH/V0118.mpd
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Tamil_One.svg/1200px-Tamil_One.svg.png", Tamil One HD
 https://otttv.co.in/tv.php?c=tamil-one%7Creferer=https://otttv.co.in/play.php?watch=tamil-one
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Logo_of_News7_Tamil_Logo.jpg", News 7 Tamil
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8
 #EXTINF:0 tvg-logo="https://karthavya.com/wp-content/uploads/2023/02/Puthiya-thalaimurai.jpg", Puthiyathalaimurai
