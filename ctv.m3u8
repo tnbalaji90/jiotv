@@ -131,28 +131,8 @@ https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
 #KODIPROP:inputstream.adaptive.license_key=2341c2ecd3cf4865881bb0fa1287de8f:ad45202e64f66ef36b3f60fac93cc47f
 https://tglmp04.akamaized.net/out/v1/421a3cd3bdcd492f8f4b5efb2363ed2c/manifest.mpd
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Rock_Entertainment.png", Rock Entertainment
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9229814c629b406f8de98d2f23c968a0:40b9f250455b43b3b2ea6845ab81abca
-https://tglmp02.akamaized.net/out/v1/621a7089e63144e4be7891cd9bfb10e2/manifest.mpd
-#EXTINF:0 tvg-logo="https://mhdtvmax.com/wp-content/uploads/2024/02/kmovies.webp", Korean Movies (Eng) - 1
-https://bd281c27a16f4a7fb4a88260378e8082.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewMovies/playlist.m3u8
-#EXTINF:0 tvg-logo="https://mhdtvmax.com/wp-content/uploads/2024/02/kmovies.webp", Korean Movies (Eng) - 2
-https://7732c5436342497882363a8cd14ceff4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewMovies/playlist.m3u8
-#EXTINF:0 tvg-logo="https://mhdtvmax.com/wp-content/uploads/2023/09/bestaction.webp", Best Action TV
-https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/3857ca76-db9a-4928-ba0f-cc43be5eb7c9_0_HLS/manifest.m3u8
-
 #EXTINF:-1 group-title="KNOWLEDGE" tvg-logo="http://linear-poster.astro.com.my/prod/logo/Animal_Planet_v1.png", ANIMAL PLANET HD
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/animalplanet.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-PnBxdKJkv3bcShp1E2Q8FZb5wrQyRgSdfg&usqp=CAU", Discovery Kids
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverykids.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlCzx0uQjHpq1MLI4oTJ9_H2Yfb5_YZ8Lw0w&usqp=CAU", Discovery Tamil HD
-https://raw.githubusercontent.com/tnbalaji90/Iptv/main/Dtamil.m3u8
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Discovery_Turbo.png", Discovery Turbo
-https://raw.githubusercontent.com/tnbalaji90/Iptv/main/Dturbo.m3u8
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNmB4aq7jPXP2P777-0d1y88NQ_rFVN001uw&usqp=CAU", Discovery Science
-https://raw.githubusercontent.com/tnbalaji90/Iptv/main/Dscience.m3u8
