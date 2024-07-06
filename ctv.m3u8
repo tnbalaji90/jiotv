@@ -5,55 +5,25 @@
 #KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default.mpd
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Star_Vijay_logo_2023.png", Star Vijay HD
-
-#EXTINF:0 tvg-logo="https://sund-images.sunnxt.com/14020/640x360_SunTVHD_14020_611b7b0f-f40a-4eea-979c-cf8c8026b8e6.jpg", Sun TV
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtTlyfzv8Tl50jvBV7EvcsPLjj-9Gbmw8glA&usqp=CAU", Sun Music HD
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgWgl2osp0qSv4gfhfF6MSf4mVf8D5ICIi2A&usqp=CAU", KTV HD
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ53Vfk9c9IyiOplkyqAXJ9SuT2ZEMQ1cZ0DoAKpwhuuUE6dEZcbkTE959B&s=10", Chutti TV
-
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fe/Sun_Life.jpg/revision/latest/scale-to-width-down/250?cb=20180910010835", Sun Life
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQNVFWu2IRbl_U0f4nJWLVfyl4Br9_CvpWMg&usqp=CAU", Adithiya TV
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVwf7_Vv7PeGzvhABF3rGV3Dlaif4eZn7WErUrIi2J-Q&s", Sun News
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c2/Jaya_TV_logo.png", Jaya TV HD
-
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Jaya_Movie.jpeg/revision/latest/scale-to-width-down/250?cb=20191224112417", Jaya Movies
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjN4MyJbuZsfPVzUyTVVNuhP_blbWu1RxA8rdyRhXkVQ&s", Jaya Max
-
-#EXTINF:0 tvg-logo="https://www.jayanewslive.com/assets/front2/images/logo.png", Jaya Plus
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Kalaignar_logo.jpg", Kalainger TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/kalaignar_nim_https/240122/kalaignartv/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/74/Sirippoli_tv.jpg", Siripoli TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/siripoli_nim_https/240122/siripoli/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b9/Murasu-TV.png", Murasu TV
 https://segment.yuppcdn.net/050522/murasu/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Isai_Aruvi.jpeg", Isaiaruvi
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/isaiaruvi_nim_https/140622/isaiaruvi/playlist.m3u8
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/Chithiram_tv_logo.jpg", Chithiram TV
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zee_Tamil.jpeg", Zee Tamil
-
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/ta/0/08/%E0%AE%9C%E0%AF%80_%E0%AE%A4%E0%AE%AE%E0%AE%BF%E0%AE%B4%E0%AF%8D.png", Zee Tamil HD
-
-#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqvdz99Fa0vHsRO0jI3sOqYAbxaqvGm9NTpw&usqp=CAU", Zee Thirai
 
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/Colors_Tamil_HD.jpg", Colors Tamil HD
 https://mhdtvweb.com/jc/stream.php?id=806dde9acdc873824b363bf6bc6477e6%7Creferer=https://mhdtvweb.com/jc/play.php?c=806dde9acdc873824b363bf6bc6477e6
+
 #EXTINF:0 tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZRHwcVOA4b-V8K_oLmvCd4XLsAkSkcslWN4rk33pg=s900-c-k-c0x00ffffff-no-rj", Polimer TV
 https://mhdlivetv.com/yupp/main.php?cid=polimertv%7Creferer=https://mhdlivetv.com/yupp/play.php?c=polimertv
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/Tamil_Rajtv.png/revision/latest?cb=20160804101552", RAJ TV
 
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/Raj_Musix_Tamil.jpeg/revision/latest?cb=20191227071716", Raj Musix
-
-#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Raj_Digital_Plus.jpeg/revision/latest/scale-to-width-down/300?cb=20191231195635", Raj Digital Plus
 
 #EXTINF:0 tvg-logo="https://tamil.oneindia.com/img/2024/01/screenshot29691-1705671046.jpg", DD Podhigai
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/100110
