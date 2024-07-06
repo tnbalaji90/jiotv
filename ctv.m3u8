@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="", Astro Vellithirai
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default.mpd
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Star_Vijay_logo_2023.png", Star Vijay HD
 https://humsab.xyz/IN_VIJAYTVHD/index.m3u8
 #EXTINF:0 tvg-logo="https://sund-images.sunnxt.com/14020/640x360_SunTVHD_14020_611b7b0f-f40a-4eea-979c-cf8c8026b8e6.jpg", Sun TV
