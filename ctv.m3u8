@@ -35,7 +35,8 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/thanthi_nim_https/110322/thanthi/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQyK22a9Q9mkd4J2iMDlKHFQ4oNmbwuJZcSg&usqp=CAU", & Flix HD
-https://neestreamtv.com/z5/stream.php?id=0-9-channel_2105335046%7Creferer=https://neestreamtv.com/z5/play.php?c=0-9-224
+https://edge4-moblive.yuppcdn.net/transsd/smil:nflix.smil/index.m3u8
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/1200px-%26priv%C3%A9_HD.svg.png", & Prive HD
 https://neestreamtv.com/z5/stream.php?id=0-9-privéhd%7Creferer=https://neestreamtv.com/z5/play.php?c=0-9-224
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Moon_TV.jpg", Moon TV
