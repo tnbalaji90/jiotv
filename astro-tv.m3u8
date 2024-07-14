@@ -189,3 +189,78 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/2310/default.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=859f5b2054c4073e8f0da463d208b910:5eb3762b1a4631a0b98e25e23cef0193
 https://linearjitp-playback.astro.com.my/dash-wv/linear/915/default_ott.mpd
+
+#EXTINF:0 tvg-logo="", SKY_HISTORY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000726528a7acda1c8862867e9a0c86f:e059a8750e78b91c3bb540308aed6a60
+https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skyhistory1)/manifest_720.mpd
+
+#EXTINF:0 tvg-logo="", SKY_SCIFI
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00070f1575f10d7ce03963ca758ba831:a10732c2258e99c55f50c4e942229bd9
+https://linear407-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skyscifi)/manifest_720.mpd
+
+#EXTINF:0 tvg-logo="", SKY_ARTS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003a9ce7059b908eddf9809eb9b0b02:a5f457de904fae9017b0cfae99747ea1
+https://linear012-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skyarts)/manifest_720.mpd
+
+#EXTINF:0 tvg-logo="", SKY_CINEMA_PREMIER
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00073338ff8073d4304f83c62a015923:097c82ec30a82545cfc1f9d66ba7bfa0
+https://linear407-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemapremier)/manifest_720.mpd
+
+#EXTINF:0 tvg-logo="", SKY_CINEMA_ACTION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0009a340cc0a79210aac42485474d01f:42ad18fa32d4001a1b0d196d194b4f82
+https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemaaction)/manifest_720.mpd
+
+#EXTINF:0 tvg-logo="", SKY_CINEMA_ANIMATION
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0007cb3f3fe2ed34cc3a0dead47c2769:0a8bb5a04ab2fdf7b14af67b8ecf0867
+https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemaanimation)/manifest_720.mpd
+
+#EXTINF:0 tvg-logo="", SKY_CINEMA_FAMILY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00092cba8f081f1f6711df263e0639a3:07a43faf140c8ce0313047c29883d270
+https://linear401-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemafamily)/manifest_720.mpd
+
+#EXTINF:0 tvg-logo="", SKY_CINEMA_HORROR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0007c076bbcea27bdc06d9cf3d2ae546:564cfbb51a3c935b01bea50df5649ba8
+https://linear402-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemascifi)/manifest_720.mpd
+
+#EXTINF:0 tvg-logo="", SKY_CINEMA_THRILLER
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0007e54edb6bc28d1e657138c133cfcb:16dbe4921c7a364db8703eacbaecbd8c
+https://linear402-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skycinemathriller)/manifest_720.mpd
+
+#EXTINF:0 tvg-logo="", SKY_KIDS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0007bbe93b8c33cc9fd34f548d5da955:ad9ee1304763576d695eb5973ce60bdb
+https://linear405-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(skykidsnow)/manifest_720.mpd
+
+#EXTINF:0 tvg-logo="", BOOMERANG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=000964c3516500c0be940a62fdbb23ff:ff945bf1cc4fde35fe5c481298e71262
+https://linear402-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(boomerang)/manifest_720.mpd
+
+#EXTINF:0 tvg-logo="", NICK_TOONS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00052f14154e74547eaa96ce5a648d0d:352827705d65ed9980d268495019c9c3
+https://linear006-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(nicktoons)/manifest_720.mpd
+
+#EXTINF:0 tvg-logo="", CARTOONITO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0003205ac278f1d9dbe1a1500fdbb46b:7f47ed6ef9f3ba859d8d269074db9ffd
+https://linear014-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(cartoonito)/manifest_720.mpd
+
+#EXTINF:0 tvg-logo="", NICK_JR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0007620180a331fca067a867f1622234:c5d85d10f043831761a7b11733613f6a
+https://linear406-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(nickjunior)/manifest_720.mpd
+
+#EXTINF:0 tvg-logo="", NICKELODEON
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00096148ae77e32fd27a8b2b5964ba17:4a55c651338dd943e9e64ae55b8e2409
+https://linear404-gb-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(nickelodeon)/manifest_720.mpd
