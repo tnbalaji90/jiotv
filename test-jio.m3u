@@ -1,0 +1,83 @@
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+
+SUN Network (Tamil)
+
+#EXTINF:-1 tvg-id="896" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_TV_HD.png" group-title="Entertainment",Sun TV HD
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Sun_TV_HD_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="682" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_Life.png" group-title="Movies",Sun Life
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Sun_Life_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="676" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sun_News.png" group-title="News",Sun News
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Sun_News_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="894" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/KTV_HD.png" group-title="Movies",KTV HD
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/KTV_HD_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="557" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Chutti_TV.png" group-title="Kids",Chutti TV
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Chutti_TV_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="709" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Adithya_TV.png" group-title="Entertainment",Adithya TV
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Adithya_TV_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="1209" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kalaignar_TV.png" group-title="Entertainment",Kalaignar TV
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Kalaignar_TV_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="1210" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Kalaignar_Seithigal_.png" group-title="News",Kalaignar Seithigal 
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Kalaignar_Seithigal__MOB/Fallback/index.m3u8
+
+Jaya TV Network (Tamil)
+
+#EXTINF:-1 tvg-id="417" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Movies",J Movies
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/J_Movies_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="418" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Plus.png" group-title="News",Jaya Plus
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Jaya_Plus_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="419" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="Entertainment",Jaya TV HD
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Jaya_TV_HD_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="420" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jaya_Max.png" group-title="Music",Jaya Max
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Jaya_Max_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="628" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil.png" group-title="Entertainment",Zee Tamil
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Zee_Tamil_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="1356" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png" group-title="Entertainment",Zee Tamil HD
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Zee_Tamil_HD_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="2256" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_Thirai.png" group-title="Movies",Zee Thirai
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Zee_Thirai_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="636" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Polimer_News.png" group-title="News",Polimer News
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Polimer_News_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="705" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Polimer_TV.png" group-title="Entertainment",Polimer TV
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Polimer_TV_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="707" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_TV.png" group-title="Entertainment",Raj TV
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Raj_TV_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="748" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Musix.png" group-title="Music",Raj Musix
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Raj_Musix_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="708" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Makkal_TV.png" group-title="Entertainment",Makkal TV
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Makkal_TV_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="767" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_News_24x7.png" group-title="News",Raj News 24x7
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Raj_News_24x7_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="683" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png" group-title="Movies",Raj Digital Plus
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Raj_Digital_Plus_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="429" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png" group-title="Entertainment",Colors Tamil HD
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Colors_Tamil_HD_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="1371" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Tamil.png" group-title="Entertainment",Colors Tamil
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Colors_Tamil_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-id="1322" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/And_Flix_HD.png" group-title="Movies",&Flix HD
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/And_Flix_HD_MOB/Fallback/index.m3u8
+
+#EXTINF:0 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jothi_TV.png",JothiTV
+https://jiotvbpkmob.cdn.jio.com/bpk-tv/Jothi_TV_MOB/Fallback/index.m3u8
