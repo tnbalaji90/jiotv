@@ -29,6 +29,7 @@ https://idvd.multitvsolution.com/idvo/imayamtv.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/Logo_of_News7_Tamil_Logo.jpg", News 7 Tamil
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/news7_nim_https/240122/news7/playlist.m3u8
+
 #EXTINF:0 tvg-logo="https://karthavya.com/wp-content/uploads/2023/02/Puthiya-thalaimurai.jpg", Puthiyathalaimurai
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/puthiya_nim_https/240122/puthiya/playlist.m3u8
 #EXTINF:0 tvg-logo="https://gumlet.assettype.com/afaqs%2Fimport%2Fall%2Fnews%2Fimages%2Fnews_story_grfx%2F2012%2F36111_1_home_big.jpg?format=webp&w=400&dpr=2.6", Thandhi TV
@@ -39,8 +40,10 @@ https://edge4-moblive.yuppcdn.net/transsd/smil:nflix.smil/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/%26priv%C3%A9_HD.svg/1200px-%26priv%C3%A9_HD.svg.png", & Prive HD
 https://neestreamtv.com/z5/stream.php?id=0-9-privéhd%7Creferer=https://neestreamtv.com/z5/play.php?c=0-9-224
+
 #EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Moon_TV.jpg", Moon TV
 https://mhdmaxtv.me/yupp/tv.php?c=moon-tv%7Creferer=https://mhdmaxtv.me/yupp/play.php?watch=moon-tv
+
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Logo_IBC_GLOSSY.png/1200px-Logo_IBC_GLOSSY.png", IBC Tamil
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://assets.ibcstack.com/web/bravo/img/services/bakthi.png", IBC Bhakthi
