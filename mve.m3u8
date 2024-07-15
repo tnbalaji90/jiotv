@@ -1,17 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="", Godzila x Kong
-https://cdn28.vembz.one/hls/h7todizuamlbu3tf6rvdllpizotvfvx7li2iw34ij,3ncm2umkcj7zjjgauta,tncm2umkcj67vc2vq4q,lncm2umkcj4jrsgkkia,.urlset/master.m3u8
-#EXTINF:-1 tvg-id="",Spaceman
+#EXTINF:0 tvg-logo="", Kingdom of the planet of the Apes
+https://cdn155.vembz.one/hls/h7tod2rpamlbu3tf6rwtlm5s3hizcmmqupblj7a6y,povmnmqrkptkdtdldaa,hovmnmqrkpvfs4udeqq,7ovmnmqrkp54voznria,.urlset/master.m3u8
 
-#EXTINF:-1 tvg-id="", Metukudi
-https://cdn84.vembx.one/hls/h7tocd33amlbu3tf6rutlixmzmg5zw3fiic5wzwue,xrnahb5f3hi5palkgyq,7rnahb5f3hot34ayewa,.urlset/master.m3u8
+#EXTINF:0 tvg-logo="", House of the Disappeared
+https://cdn24.vembz.one/hls/h7todnbqamlbu3tf6rwtl5po33rd4pdmurjdukzsr,xzna4itaymyeyuvifra,7zna4itaym5fuf3ylhq,hzna4itaymxuggod3cq,.urlset/master.m3u8
 
-#EXTINF:-1 tvg-id="",Jaws 1
-
-#EXTINF:-1 tvg-id="",Jaws 2
-
-#EXTINF:-1 tvg-id="",Jaws 3
-
-#EXTINF:-1 tvg-id="",Madame Web
-
+#EXTINF:0 tvg-logo="", Mad Max 2024
+https://cdn155.vembz.one/hls/h7tod2rpamlbu3tf6rwtlm5s3hizcmmqupblj7a6y,povmnmqrkptkdtdldaa,hovmnmqrkpvfs4udeqq,7ovmnmqrkp54voznria,.urlset/master.m3u8
