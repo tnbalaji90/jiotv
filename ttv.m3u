@@ -11,57 +11,70 @@ https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=521
 https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=496
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=474
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=474
 #EXTINF:-1 tvg-id=ts474 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11837-j9kzms9s-v2/imageContent-11837-j9kzms9s-m3.png" group-title="Tata Sky",Sun Life
-https://tataplay.dinesh29.com.np/live/tataplay/sun-life/manifest.mpd
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=474
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1260
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=1260
 #EXTINF:-1 tvg-id="1260" group-title="Movies" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPTAMCL_Thumbnail-v1/TPTAMCL_Thumbnail.png",Tata Play Tamil Classics
-https://denver.bigcric.site/api/1260.mpd
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=1260
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=1167
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=1167
 #EXTINF:-1 tvg-id="1167" group-title="None" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TPHLT_Thumbnail-v4/TPHLT_Thumbnail.png",Tata Play Hollywood Local Tamil
-https://delta13tatasky.akamaized.net/out/i/6282177.mpd
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=1167
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=608
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=608
 #EXTINF:-1 tvg-id=ts608 tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png" group-title="Tata Sky",Zee Tamil HD
-https://tataplay.dinesh29.com.np/live/tataplay/zee-tamil-hd/manifest.mpd
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=608
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=257
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=257
 #EXTINF:-1 tvg-id="257" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9006-j7rlwsns-v2/imageContent-9006-j7rlwsns-m4.png",Zee Tamil
-https://tataplay.dinesh29.com.np/live/tataplay/zee-tamil/manifest.mpd
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=257
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=674
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=674
 #EXTINF:-1 tvg-id="674" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG",Colors Tamil HD
-https://denver.bigcric.site/api/674.mpd
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=674
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=418
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=418
 #EXTINF:-1 tvg-id="418" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21152-je6orzfk-v1/imageContent-21152-je6orzfk-m1.png",Colors Tamil
-https://denver.bigcric.site/api/418.mpd
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=418
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=708
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=708
 #EXTINF:-1 tvg-id="708" group-title="Telugu" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-38738-juc4a1ig-v5/imageContent-38738-juc4a1ig-m8.png",Jaya TV HD
-https://denver.bigcric.site/api/708.mpd
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=708
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=200
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=200
 #EXTINF:-1 tvg-id="200" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png",Kalaignar TV
-https://denver.bigcric.site/api/200.mpd
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=200
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=997
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=997
 #EXTINF:-1 tvg-id="997" group-title="None" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSTAM_Thumbnail-v6/TONSTAM_Thumbnail.png",Tata Play Toons+
-https://denver.bigcric.site/api/997.mpd
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=997
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=426
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=426
 #EXTINF:-1 tvg-id="426" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11679-j9khnqag-v1/imageContent-11679-j9khnqag-m1.png",Raj Digital Plus
-https://denver.bigcric.site/api/426.mpd
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=426
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=439
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=439
 #EXTINF:-1 tvg-id="439" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11700-j9ksbotk-v1/imageContent-11700-j9ksbotk-m1.png",Raj TV
-https://denver.bigcric.site/api/439.mpd
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=439
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=99
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=99
 #EXTINF:-1 tvg-id="99" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-44904-jzu8ri4o-v1/imageContent-44904-jzu8ri4o-m1.png",D Tamil
-https://denver.bigcric.site/api/99.mpd
+https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=99
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://play.denver1769.in/KeyLelo.php?id=37
 #EXTINF:-1 tvg-id="37" group-title="Tamil" tvg-country="IN" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-111-j5fl5xo8-v1/imageContent-111-j5fl5xo8-m1.png",Mega TV
