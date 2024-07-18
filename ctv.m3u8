@@ -8,7 +8,7 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default.mpd
 #EXTINF:0 tvg-logo="", Thandhi One
 https://249553662f3e.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.588204940461.channel.Sx8XPoik8VX2.m3u8
 
-#EXTINF:0 tvg-logo="", Star Vijay HD
+#EXTINF:0 tvg-logo="", Mega Musiq 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5140c547c6e35b7a9e3cc553d82f55e8:8cbae13e03cd992043a5cf15537f72b1
 https://bpprod7catchup.akamaized.net/bpk-tv/irdeto_com_Channel_624/output/manifest.mpd?begin=20240712T132310&end=20240720T132310
