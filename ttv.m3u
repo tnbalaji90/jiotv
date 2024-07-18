@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="https://avkb.short.gy/tsepg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=521
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=521
 #EXTINF:-1 tvg-id="521" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png" group-title="Tata Sky",Sun TV HD
 https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=521
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=496
+#KODIPROP:inputstream.adaptive.license_key=https://yuvraj43.xyz/TP-worldwide/key.php?id=496
 #EXTINF:-1 tvg-id="496" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png" group-title="Tata Sky",Star Vijay HD
 https://yuvraj43.xyz/TP-worldwide/manifest.mpd?id=496
 #KODIPROP:inputstream.adaptive.license_type=clearkey
