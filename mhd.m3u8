@@ -1,61 +1,64 @@
 #EXTM3U
 
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png", ZeeTamil
-https://mhdtv.co.in/jio/stream.m3u8?id=628%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=628&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
+
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png", SunTVHD
-https://mhdtv.co.in/jio/stream.m3u8?id=896%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=896&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_News.png", PolimerNews
-https://mhdtv.co.in/jio/stream.m3u8?id=636%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=636&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png", KTVHD
-https://mhdtv.co.in/jio/stream.m3u8?id=894%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=894&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Tamil.png", sonicTamil
-https://mhdtv.co.in/jio/stream.m3u8?id=290%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=290&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png", JMovies
-https://mhdtv.co.in/jio/stream.m3u8?id=417%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=417&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Plus.png", JayaPlus
-https://mhdtv.co.in/jio/stream.m3u8?id=418%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=418&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png", JayaTVHD
-https://mhdtv.co.in/jio/stream.m3u8?id=419%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=419&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_Max.png", JayaMax
-https://mhdtv.co.in/jio/stream.m3u8?id=420%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=420&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Tamil_HD.png", ColorsTamilHD
-https://mhdtv.co.in/jio/stream.m3u8?id=429%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=429&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png", PogoTamil
-https://mhdtv.co.in/jio/stream.m3u8?id=542%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=542&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png", NickTamil
-https://mhdtv.co.in/jio/stream.m3u8?id=546%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=546&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
+
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png", DiscoveryKidsTamil
-https://mhdtv.co.in/jio/stream.m3u8?id=550%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=550&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Chutti_TV.png", ChuttiTV
-https://mhdtv.co.in/jio/stream.m3u8?id=557%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=557&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Tamil.png", DTamil
-https://mhdtv.co.in/jio/stream.m3u8?id=569%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=569&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Tamil.png", HistoryTV HDTamil
-https://mhdtv.co.in/jio/stream.m3u8?id=579%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=579&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nambikkai.png", Nambikkai
-https://mhdtv.co.in/jio/stream.m3u8?id=603%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=603&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png", News Tamilnadu
-https://mhdtv.co.in/jio/stream.m3u8?id=615%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=615&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sathiyam.png", SathiyamTV
-https://mhdtv.co.in/jio/stream.m3u8?id=671%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=671&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News7_Tamil.png", News Tamil
-https://mhdtv.co.in/jio/stream.m3u8?id=673%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=673&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_News.png", SunNews
-https://mhdtv.co.in/jio/stream.m3u8?id=676%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=676&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Puthiya_Thalimurai.png", PuthiyaThalimurai
-https://mhdtv.co.in/jio/stream.m3u8?id=677%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=677&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Life.png", SunLife
-https://mhdtv.co.in/jio/stream.m3u8?id=682%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=682&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Digital_Plus.png", RajDigitalPlus
-https://mhdtv.co.in/jio/stream.m3u8?id=683%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=683&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Polimer_TV.png", PolimerTV
-https://mhdtv.co.in/jio/stream.m3u8?id=705%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=705&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_TV.png", RajTV
-https://mhdtv.co.in/jio/stream.m3u8?id=707%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=707&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Makkal_TV.png", MakkalTV
-https://mhdtv.co.in/jio/stream.m3u8?id=708%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=708&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Adithya_TV.png", AdithyaTV
-https://mhdtv.co.in/jio/stream.m3u8?id=709%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
+https://colorsscreen.com/live.php?id=709&extension=.m3u8%7Creferer=https://colorsscreen.com/play.php?id=2256
+
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD5_Podhigai.png", DD Podhigai
 https://mhdtv.co.in/jio/stream.m3u8?id=726%7Creferer=https://mhdtv.co.in/jio/play.php?id=2256
 #EXTINF:0 tvg-logo=tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vasanth_TV.png", VasanthTV
