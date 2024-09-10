@@ -1,0 +1,56 @@
+
+
+#EXTINF:0 tvg-logo="", KTV_HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=351e547391bb45cbac66d2cb9ec0c294:3bd646753f4903eee3b404646c7819d3
+https://sunnxt.malayalamtvhd.workers.dev/livestream/1c406d282d7446349fcc0f4a1b2180d7/KTVHD_IN_index.mpd
+
+#EXTINF:0 tvg-logo="", SUNTV_HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
+https://sunnxt.malayalamtvhd.workers.dev/livestream3/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd
+
+#EXTINF:0 tvg-logo="", SUN_HD_DOLBY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
+https://sunnxt.malayalamtvhd.workers.dev/livestream2/803a6a4872a449a193b5846b5d101359/SunTVHD_IN_index.mpd
+
+#EXTINF:0 tvg-logo="", SUN_NEWS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4df8f920386e4346ba6b7d7ae935d668:c5fcaa8df5663365d938a50987f71b84
+https://sunnxt.malayalamtvhd.workers.dev/livestream3/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_index.mpd
+
+#EXTINF:0 tvg-logo="", SUN_MUSIC_HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5a2c6d13b9748de9ceebc0a8adc8af3:e806fec1bf1c8a844216118c94bad020
+https://sunnxt.malayalamtvhd.workers.dev/livestream/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
+
+#EXTINF:0 tvg-logo="", SUN_LIFE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=81546df3f41c4a6dbc9a4efc7f2fb626:3928505f4054cf1fa935276fdbe40992
+https://sunnxt.malayalamtvhd.workers.dev/livestream/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd
+
+#EXTINF:0 tvg-logo="", ADITHYA_TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d674a1a7f43641a29bd8867d87c7259a:812f55dcde68619fc6ad95951b241d2c
+https://sunnxt.malayalamtvhd.workers.dev/livestream/4d0eb3cde30247ada4ade679fdfbaf86/AdithyaTVB_IN_index.mpd
+
+#EXTINF:0 tvg-logo="", CHUTTI_TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05da38a46fb7403088f41434e44de980:488046139a1e1d65323cfe4bb1b30b7b
+https://sunnxt.malayalamtvhd.workers.dev/livestream/e3eccb3f250a4ca8826e42914b2322a6/ChuttiTV_IN_index.mpd
+
+#EXTINF:0 tvg-logo="", SUN_TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
+https://sunnxt.malayalamtvhd.workers.dev/livestream1/05b5df1221764bca9867054c5e65ee62/SunTVB_IN_index.mpd
+
+#EXTINF:0 tvg-logo="", KTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=426117d115b04497b0b0d425e8095184:aa751ae8a41ac6f87141734163ffe3b2
+https://sunnxt.malayalamtvhd.workers.dev/livestream/6ae70edd4c1440379f5311e8fbddc7c1/KTVB_IN_index.mpd
+
+#EXTINF:0 tvg-logo="", SUN_MUSIC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=21ddc14c4da94c079d4f4c343ecdcd80:5701bee4ee9b625d0c8ed7de032a7478
+https://sunnxt.malayalamtvhd.workers.dev/livestream/585bb66e95c84ccea3f828c96b3567b5/SunMusicB_IN_index.mpd
