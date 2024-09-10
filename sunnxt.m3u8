@@ -5,11 +5,6 @@
 #KODIPROP:inputstream.adaptive.license_key=351e547391bb45cbac66d2cb9ec0c294:3bd646753f4903eee3b404646c7819d3
 https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd
 
-#EXTINF:0 tvg-logo="", ASTRO_CRICKETTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-https://linearjitp02-playback.astro.com.my/dash-wv/linear/2504/default.mpd
-
 #EXTINF:0 tvg-logo="", SUNTV_HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
