@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:0 tvg-logo="", KTV_HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=351e547391bb45cbac66d2cb9ec0c294:3bd646753f4903eee3b404646c7819d3
