@@ -3,6 +3,9 @@
 #EXTINF:0 tvg-logo="", Star Vijay Takker
 https://stream.vstartv.org:3534/hybrid/play.m3u8
 
+#EXTINF:0 tvg-logo="", Star Vijay Super
+https://stream.vstartv.org:3511/hybrid/play.m3u8
+
 #EXTINF:0 tvg-logo="", Astro Vellithirai
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
@@ -133,8 +136,7 @@ https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
 https://ais-s.ais-vidnt.com/ais/play/origin/live/eds/V0138/DASH/V0138.mpd
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8q7WoQtZ3Gi0E65CK7_CVfkxbyOEDVHvU1g&usqp=CAU", Maalai Murasu
 https://mhdtv.co.in/jio/stream.php?id=826%7creferer=https://mhdtv.co.in/jio/stream.php?id=2256
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/Vijay_Super_logo.jpg/150px-Vijay_Super_logo.jpg", Vijay Super (IND)
-https://cbqh.short.gy/bjtechStarVijay.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsvKpWcZvyxUVxTqFczYcZkKya-1y5ZSYPaQ&usqp=CAU", Zee Tamil News
 https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
 
