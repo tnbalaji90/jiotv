@@ -7,8 +7,8 @@ https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.m
 
 #EXTINF:0 tvg-logo="", SUNTV_HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3891557f1cb14dedb7545bf52499d748:fb662f742e5f5e0c61a7c1c66d2b019a
-https://sunnxt.malayalamtvhd.workers.dev/livestream3/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd
+#KODIPROP:inputstream.adaptive.license_key=6752015acf084572a08dfe21796f8b45:ff823ddbe5625c35d3e93f0ed4520115
+https://sunnxt.malayalamtvhd.workers.dev/livestream1/05b5df1221764bca9867054c5e65ee62/SunTVB_IN_index.mpd
 
 
 #EXTINF:0 tvg-logo="", SUN_NEWS
