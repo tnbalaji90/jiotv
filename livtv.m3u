@@ -1,4 +1,4 @@
 #EXTM3U
-#EXTINF:-1, Keralamax TV Stream
+#EXTINF:-1, test
 https://keralamaxtv.com/sliv/stream.php?id=785
 #EXTVLCOPT:http-referrer=https://keralamaxtv.com/sliv/play.php?id=785
