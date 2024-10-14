@@ -1,1 +1,6 @@
+#EXTM3U
 
+#EXTINF:0 tvg-logo="", Astro Vellithirai
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default.mpd
