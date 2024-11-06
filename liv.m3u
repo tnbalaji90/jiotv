@@ -23,3 +23,6 @@ https://stream.vstartv.org/p/3674/hybrid/play.m3u8
 
 #EXTINF:0 tvg-logo="", IBC Tamil
 https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
+
+#EXTINF:0 tvg-logo="", Zee Tamil News
+https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
