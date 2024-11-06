@@ -2,3 +2,6 @@
 
 #EXTINF:0 tvg-logo="", Sony Movies
 https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
+
+#EXTINF:0 tvg-logo="", Sony One - Thriller TV
+https://linear-808.frequency.stream/mt/studio/808/hls/master/playlist.m3u8
