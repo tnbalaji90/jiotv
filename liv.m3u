@@ -50,3 +50,6 @@ https://bd.spidy.online/MACX/JAZZ4K/play.m3u8?id=8624
 
 #EXTINF:-1 tvg-id="630" group-title="PREMIUM MOVIES" tvg-logo="",SONY PIX HD
 https://bd.spidy.online/MACX/JAZZ4K/play.m3u8?id=630
+
+#EXTINF:0 tvg-logo="", Zee Thirai (SD)
+https://z5ak-cmaflive.zee5.com/cmaf/live/2105172/ZeeThiraiELE/master.m3u8?hdnts=st=1730998183~exp=1731001183~acl=/cmaf/live/2105172/ZeeThiraiELE/master.m3u8*~hmac=1b300bf8798a5309548d6c987a1dea96b264185290dd2d2c1bc47d40063d1d1b&req_id=f6bb130b-71c6-48fe-91f8-3cbcdcda497d
