@@ -27,6 +27,9 @@ https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
 #EXTINF:0 tvg-logo="", Zee Tamil News
 https://dpkvdnzbeen1l.cloudfront.net/index_4.m3u8
 
+#EXTINF:0 tvg-logo="", One Hollywood TV
+https://ipcloud.live/onetv/onehollywood/index.m3u8
+
 #EXTINF:0 tvg-logo="", Tamil Three
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
 
