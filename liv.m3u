@@ -38,3 +38,15 @@ https://ipcloud.live/onetv/onemovies/index.m3u8
 
 #EXTINF:0 tvg-logo="", Sooriyan TV
 https://cdn.jwplayer.com/videos/LNdcgulf-o4j6Jv34.m3u8
+
+#EXTINF:-1 tvg-id="5714" group-title="TAMIL" tvg-logo="",ZEE THIRAI
+https://bd.spidy.online/MACX/JAZZ4K/play.m3u8?id=5714
+
+#EXTINF:-1 tvg-id="4065" group-title="TAMIL" tvg-logo="",VIJAY SUPER HD
+https://bd.spidy.online/MACX/JAZZ4K/play.m3u8?id=4065
+
+#EXTINF:-1 tvg-id="8624" group-title="TAMIL" tvg-logo="",STAR VIJAY HD
+https://bd.spidy.online/MACX/JAZZ4K/play.m3u8?id=8624
+
+#EXTINF:-1 tvg-id="630" group-title="PREMIUM MOVIES" tvg-logo="",SONY PIX HD
+https://bd.spidy.online/MACX/JAZZ4K/play.m3u8?id=630
