@@ -63,7 +63,6 @@ https://bd.spidy.online/MACX/JAZZ4K/play.m3u8?id=687
 #EXTINF:-1 tvg-id="2733" group-title="PREMIUM MOVIES" tvg-logo="",MOVIES NOW HD
 https://bd.spidy.online/MACX/JAZZ4K/play.m3u8?id=2733
 
-
-#EXTINF:-1 tvg-id="ChannelID" tvg-name="ChannelName" tvg-logo="logo_url",Check Zee Thirai
+#EXTINF:0 tvg-logo="", Zee Thirai (SD)
 #EXTVLCOPT:http-referrer=https://mhdmaxtv.me/nowmelive/play.php?id=0-9-224
 https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-224
