@@ -62,14 +62,3 @@ https://bd.spidy.online/MACX/JAZZ4K/play.m3u8?id=687
 
 #EXTINF:-1 tvg-id="2733" group-title="PREMIUM MOVIES" tvg-logo="",MOVIES NOW HD
 https://bd.spidy.online/MACX/JAZZ4K/play.m3u8?id=2733
-
-#EXTINF:0 tvg-logo="", Zee Thirai (SD)
-#EXTVLCOPT:http-referrer=https://mhdmaxtv.me/nowmelive/play.php?id=0-9-224
-https://mhdmaxtv.me/nowmelive/stream.php?id=0-9-224
-
-#EXTINF:0 tvg-logo="", ASTRO_VELLITHIRAI
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9c44af8b594b6157f55d3c31bd679c10:c128bbe41e94d15a7f8cc2f6253a54b2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5073/default.mpd
