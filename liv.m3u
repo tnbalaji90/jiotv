@@ -6,8 +6,8 @@ https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/smc_720p/playlist.m3u8
 #EXTINF:0 tvg-logo="", Sony One - Thriller TV
 https://linear-808.frequency.stream/mt/studio/808/hls/master/playlist.m3u8
 
-#EXTINF:0 tvg-logo="", And Flix
-https://edge4-moblive.yuppcdn.net/transsd/smil:nflix.smil/index.m3u8
+#EXTINF:-1 tvg-id="2711" group-title="HINDI" tvg-logo="",AND FLIX HD
+https://bd.spidy.online/MACX/JAZZ4K/play.m3u8?id=2711
 
 #EXTINF:0 tvg-logo="", Siripoli TV
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/siripoli_nim_https/240122/siripoli/playlist.m3u8
@@ -62,3 +62,11 @@ https://bd.spidy.online/MACX/JAZZ4K/play.m3u8?id=687
 
 #EXTINF:-1 tvg-id="2733" group-title="PREMIUM MOVIES" tvg-logo="",MOVIES NOW HD
 https://bd.spidy.online/MACX/JAZZ4K/play.m3u8?id=2733
+
+#EXTINF:-1 tvg-id="11501" group-title="TAMIL" tvg-logo="",STAR VIJAY MUSIC
+https://bd.spidy.online/MACX/JAZZ4K/play.m3u8?id=11501
+
+#EXTINF:-1 tvg-id="5717" group-title="TAMIL" tvg-logo="",IMAYAM TV
+https://bd.spidy.online/MACX/JAZZ4K/play.m3u8?id=5717
+
+
